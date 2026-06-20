@@ -1,0 +1,63 @@
+# 🌟 DS Portfolio - Data Science & Web Development
+
+A clean, modern, and highly responsive portfolio application built with **React**, **Vite**, and **Tailwind CSS**. This project showcases professional skills, certificates, and work experience in a visually stunning interface.
+
+## 🚀 Features
+
+- **Responsive Design**: Optimized for all devices (Mobile, Tablet, and Desktop).
+- **Modern UI/UX**: Built with Tailwind CSS for a premium look and feel.
+- **Interactive Components**: Using Lucide Icons and React Icons for a polished UI.
+- **Fast Performance**: Powered by Vite and React 19 for lightning-fast load times.
+- **Glassmorphism Effects**: Sleek, modern aesthetic with subtle transparency and blurs.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [React 19](https://reactjs.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Lucide React](https://lucide.dev/), [React Icons](https://react-icons.github.io/react-icons/)
+- **Deployment**: Ready for Vercel, Netlify, or GitHub Pages.
+
+## 📂 Project Structure
+
+```text
+├── public/          # Static assets
+├── src/
+│   ├── components/  # Reusable UI components
+│   ├── assets/      # Images and styles
+│   └── App.jsx      # Main application entry
+├── index.html       # HTML entry point
+└── package.json     # Dependencies and scripts
+```
+
+## 🚥 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone <your-repository-url>
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Built with ❤️ by [Your Name]*
+
