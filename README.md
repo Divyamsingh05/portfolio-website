@@ -1,4 +1,4 @@
-MY Portfolio
+**MY PORTFOLIO WEBSITE**
 
 A clean, modern, and highly responsive portfolio application built with **React**, **Vite**, and **Tailwind CSS**. This project showcases professional skills, certificates, and work experience in a visually stunning interface.
 
