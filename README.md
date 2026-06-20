@@ -18,27 +18,6 @@ A clean, modern, and highly responsive portfolio application built with **React*
 - **Icons**: [Lucide React](https://lucide.dev/), [React Icons](https://react-icons.github.io/react-icons/)
 - **Deployment**: Ready for Vercel, Netlify, or GitHub Pages.
 
-## 📂 Project Structure
 
-```text
-├── public/          # Static assets
-├── src/
-│   ├── components/  # Reusable UI components
-│   ├── assets/      # Images and styles
-│   └── App.jsx      # Main application entry
-├── index.html       # HTML entry point
-└── package.json     # Dependencies and scripts
-```
-
- **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 *Built by [Divyam Singh]*
 
