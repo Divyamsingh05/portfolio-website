@@ -1,4 +1,4 @@
-# 🌟 DS Portfolio - Data Science & Web Development
+MY Portfolio
 
 A clean, modern, and highly responsive portfolio application built with **React**, **Vite**, and **Tailwind CSS**. This project showcases professional skills, certificates, and work experience in a visually stunning interface.
 
@@ -30,26 +30,7 @@ A clean, modern, and highly responsive portfolio application built with **React*
 └── package.json     # Dependencies and scripts
 ```
 
-## 🚥 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
+ **Start the development server**:
    ```bash
    npm run dev
    ```
@@ -59,5 +40,5 @@ A clean, modern, and highly responsive portfolio application built with **React*
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built by [Divyam Singh]*
 
