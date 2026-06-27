@@ -2,7 +2,7 @@
 
 A clean, modern, and highly responsive portfolio application built with **React**, **Vite**, and **Tailwind CSS**. This project showcases professional skills, certificates, and work experience in a visually stunning interface.
 
-## 🚀 Features
+##  Features
 
 - **Responsive Design**: Optimized for all devices (Mobile, Tablet, and Desktop).
 - **Modern UI/UX**: Built with Tailwind CSS for a premium look and feel.
